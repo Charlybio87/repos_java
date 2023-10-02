@@ -26,6 +26,7 @@ import java.util.function.Predicate;
         double PI;  // nombre de constante en mayuscula
         char michar,michar2,letra;
         boolean evaluacion;
+        String cadena; // String es una Clase
         // Designamos el Valor máximo y mínimo
         PI = 3.14F;
         miByte = -128; // valor extremo inferior hasta aca llegamos con byte
